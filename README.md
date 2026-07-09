@@ -19,41 +19,38 @@
 
 ## 👨‍💻 About Me
 
-🎓 BTech Computer Science & Engineering Student
-
-🤖 Passionate about Artificial Intelligence and Machine Learning
-
-🌱 Currently learning AI, Machine Learning, Deep Learning and IoT
-
-💡 Interested in Computer Vision, Intelligent Systems and Real-World Problem Solving
-
-🚀 Building innovative software and AI-powered applications
-
-📍 Kerala, India
+- 🎓 BTech Computer Science & Engineering student
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- 🌱 Currently learning AI, ML, Deep Learning, and IoT
+- 💡 Interested in Computer Vision, intelligent systems, and solving real-world problems
+- 🌐 Also exploring Full Stack Development, building end-to-end AI-powered web apps
+- 🚀 Building innovative software and AI-powered applications
+- 📍 Based in Kerala, India
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js" />
 </p>
 
 ### AI & Machine Learning
-
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### Tools
+### Full Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,react,html,css,js" />
+</p>
 
+### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -62,29 +59,35 @@
 
 ## 🚀 Featured Projects
 
+### 🎤 AI Interview Coach
+A full stack AI-powered platform that helps users practice for job interviews. It simulates real interview scenarios, evaluates responses, and gives feedback to help users improve their answers and confidence.
+
+**Tech Stack:** Python, Django, Flask, React, HTML, CSS, JavaScript
+
+---
+
 ### 🤟 Sign Language to Text & Speech System
-An AI-powered application that recognizes sign language gestures using Computer Vision and converts them into text and speech.
+An AI-powered application that recognizes sign language gestures using computer vision and converts them into text and speech in real time.
 
 **Tech Stack:** Python, OpenCV, TensorFlow, CVZone, Tkinter
 
 ---
 
 ### ☕ Digital Coffee Shop Menu
-A responsive digital menu website built for a coffee shop with a clean and user-friendly interface.
+A responsive digital menu website built for a coffee shop, featuring a clean and user-friendly interface.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
 ### 🤖 Machine Learning Projects
-A collection of projects exploring machine learning concepts including prediction, classification, and intelligent automation.
+A collection of projects exploring core machine learning concepts, including prediction, classification, and intelligent automation.
 
 **Tech Stack:** Python, TensorFlow, NumPy
 
 ---
 
 ## 📊 GitHub Statistics
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishalvivek14332-source&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvivek14332-source&layout=compact&theme=tokyonight" />
@@ -93,7 +96,6 @@ A collection of projects exploring machine learning concepts including predictio
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vishalvivek14332-source&theme=tokyonight" />
 </p>
@@ -101,7 +103,6 @@ A collection of projects exploring machine learning concepts including predictio
 ---
 
 ## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/vishalvivek14332-source/vishalvivek14332-source/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -109,16 +110,13 @@ A collection of projects exploring machine learning concepts including predictio
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
   <a href="https://github.com/vishalvivek14332-source">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-
   <a href="https://www.linkedin.com/in/vishal-vivek-008437322/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-
   <a href="mailto:vishalvivek14332@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
   </a>

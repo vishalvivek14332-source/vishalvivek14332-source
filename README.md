@@ -22,7 +22,7 @@
 
 - 🎓 BTech Computer Science & Engineering student
 - 🤖 Passionate about Artificial Intelligence and Machine Learning
-- 🌱 Currently learning AI, ML, Deep Learning, and IoT
+- 🌱 Currently learning AI, ML and Deep Learning
 - 💡 Interested in Computer Vision, intelligent systems, and solving real-world problems
 - 🌐 Also exploring Full Stack Development, building end-to-end AI-powered web apps
 - 🚀 Building innovative software and AI-powered applications

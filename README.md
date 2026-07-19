@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vishalvivek14332-source">
-    <img src="https://img.shields.io/github/followers/vishalvivek14332-source?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  <a href="https://github.com/vishalvivek14332-source?tab=followers">
+    <img src="https://img.shields.io/github/followers/vishalvivek14332-source.svg?style=for-the-badge&logo=github" alt="GitHub Followers"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=vishalvivek14332-source&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vishalvivek14332-source&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---

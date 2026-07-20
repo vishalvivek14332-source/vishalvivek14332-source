@@ -63,7 +63,7 @@
 ### 🎤 AI Interview Coach
 A full stack AI-powered platform that helps users practice for job interviews. It simulates real interview scenarios, evaluates responses, and gives feedback to help users improve their answers and confidence.
 
-**Tech Stack:** Python, Django, Flask, React, HTML, CSS, JavaScript
+**Tech Stack:** Python, Flask, React, HTML, CSS, JavaScript
 
 ---
 
@@ -71,13 +71,6 @@ A full stack AI-powered platform that helps users practice for job interviews. I
 An AI-powered application that recognizes sign language gestures using computer vision and converts them into text and speech in real time.
 
 **Tech Stack:** Python, OpenCV, TensorFlow, CVZone, Tkinter
-
----
-
-### ☕ Digital Coffee Shop Menu
-A responsive digital menu website built for a coffee shop, featuring a clean and user-friendly interface.
-
-**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 

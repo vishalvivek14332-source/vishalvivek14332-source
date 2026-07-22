@@ -77,7 +77,7 @@ An AI-powered application that recognizes sign language gestures using computer 
 ### 🤖 Machine Learning Projects
 A collection of projects exploring core machine learning concepts, including prediction, classification, and intelligent automation.
 
-**Tech Stack:** Python, TensorFlow, NumPy
+**Tech Stack:** Python, TensorFlow, NumPy, Pandas
 
 ---
 

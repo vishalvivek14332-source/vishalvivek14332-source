@@ -83,9 +83,8 @@ A collection of projects exploring core machine learning concepts, including pre
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalvivek14332-source&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vishalvivek14332-source&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake

@@ -78,7 +78,6 @@ An AI-powered application that recognizes sign language gestures using computer 
 A collection of projects exploring core machine learning concepts, including prediction, classification, and intelligent automation.
 
 **Tech Stack:** Python, TensorFlow, NumPy, Pandas
-
 ---
 
 ## 🔥 GitHub Streak
@@ -95,10 +94,20 @@ A collection of projects exploring core machine learning concepts, including pre
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/vishalvivek14332-source/vishalvivek14332-source/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/vishalvivek14332-source/vishalvivek14332-source/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/vishalvivek14332-source/vishalvivek14332-source/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/vishalvivek14332-source/vishalvivek14332-source/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---

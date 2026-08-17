@@ -82,18 +82,26 @@ A collection of projects exploring core machine learning concepts, including pre
 ---
 
 ## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vishalvivek14332-source&theme=tokyonight" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=vishalvivek14332-source&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
+
 ---
 
 ## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishalvivek14332-source/vishalvivek14332-source/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://raw.githubusercontent.com/vishalvivek14332-source/vishalvivek14332-source/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/vishalvivek14332-source">
